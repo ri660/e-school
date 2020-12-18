@@ -1,0 +1,114 @@
+/* ---------- NavBar Start ---------- */
+
+
+
+/* navbar background color  */
+.bg-color{
+    background-color: #F0FFF0;
+}
+
+/* navbar logo */
+a.navbar-brand img {
+    width: 150px;
+}
+
+/* navbar font wid  */
+
+a.nav-link {
+    font-weight: 500;
+}
+
+
+li.nav-item {
+    margin: 0px 15px;
+}
+/* nav singin-burtton  */
+li.nav-item.singin-button a.nav-link {
+    color: white;
+    background: #21B573;
+    border-radius: 20px;
+    padding: 8px 20px;
+}
+
+.home-p-color {
+    color: orangered;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p.home-p2-color {
+    width: 560px;
+    padding: 20px 0px;
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    padding: 50px 0px;
+}
+
+/* home-right-img  */
+.col-md-6 img {
+    width: 550px;
+}
+/* Get started */
+
+button.get-button {
+    padding: 10px 45px;
+    border-radius: 33px;
+    border: none;
+    background: #21B573;
+    font-weight: 600;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+button.get-button:hover {
+    color: black;
+}
+
+
+/* home-h-text  */
+
+
+.home-h-text{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+.home-h2-text{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-h2-text-color{
+   color: #21B573;;
+}
+
+
+/* ---------- NavBar End ---------- */
+
+
+
+.Box {
+    width: 80%;
+    margin: auto;
+    height: 500px;
+}
+.col-md-3 img {
+    width: 70px;
+}
+
+.card-h-w {
+    width: 260px;
+    height: 240px;
+}
+
+.card.card-h-w.d-flex.align-items-center {
+    padding: 30px 30px;
+    border: none;
+}
+
+.card-body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
