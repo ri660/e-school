@@ -89,6 +89,7 @@ button.get-button:hover {
 
 
 
+/* ---------- Box Start ---------- */
 .Box {
     width: 80%;
     margin: auto;
@@ -111,4 +112,90 @@ button.get-button:hover {
 .card-body {
     text-align: center;
     font-family: 'Poppins', sans-serif;
+}
+/* ---------- Box Start ---------- */
+
+
+
+/* ---------- Courses Start ---------- */
+
+/* Courses h1  */
+.courses_text.d-flex.justify-content-center h1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #413960;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Coursrs-box-img */
+.card.h-100 img {
+    padding: 20px;
+}
+
+/* Courses-Body-text */
+.Courses-Body{
+    text-align: start;
+    color: #413960;
+}
+
+/* Courses-Body-text-footer */
+
+
+.card.h-100 {
+    border-radius: 18px;
+    overflow: hidden;
+}
+
+
+
+.card-footer {
+    padding: 22px 0px;
+    border: none;
+    background: white;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    color: #585859;
+}
+
+.Icon-one {
+    padding-left: 18px;
+    font-size: 18px;
+}
+
+}
+i.far.fa-calendar-alt {
+    padding-right: 10px;
+}
+
+
+
+.Icon-two {
+    padding-left: 30px;
+    font-size: 18px;
+}
+i.fas.fa-user {
+    padding-right: 10px;
+}
+/* ---------- Courses Start ---------- */
+
+
+/* <!----------- Testimonial Started -----------> */
+
+
+.col-md-7 p {
+    width: 570px;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.col-md-5 img {
+    width: 120px;
+    margin-left: 240px;
+    margin-top: 60px;
+}
+
+
+
+.footer-color{
+    background-color: #282531;;
 }
