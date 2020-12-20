@@ -13,15 +13,14 @@ a.navbar-brand img {
 }
 
 /* navbar font wid  */
-
 a.nav-link {
     font-weight: 500;
 }
 
-
 li.nav-item {
     margin: 0px 15px;
 }
+
 /* nav singin-burtton  */
 li.nav-item.singin-button a.nav-link {
     color: white;
@@ -50,8 +49,8 @@ p.home-p2-color {
 .col-md-6 img {
     width: 550px;
 }
-/* Get started */
 
+/* Get started */
 button.get-button {
     padding: 10px 45px;
     border-radius: 33px;
@@ -69,7 +68,6 @@ button.get-button:hover {
 
 /* home-h-text  */
 
-
 .home-h-text{
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
@@ -84,7 +82,6 @@ button.get-button:hover {
    color: #21B573;;
 }
 
-
 /* ---------- NavBar End ---------- */
 
 
@@ -95,6 +92,7 @@ button.get-button:hover {
     margin: auto;
     height: 500px;
 }
+
 .col-md-3 img {
     width: 70px;
 }
@@ -113,11 +111,13 @@ button.get-button:hover {
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
+
 /* ---------- Box Start ---------- */
 
 
 
 /* ---------- Courses Start ---------- */
+
 
 /* Courses h1  */
 .courses_text.d-flex.justify-content-center h1 {
@@ -140,15 +140,11 @@ button.get-button:hover {
 
 /* Courses-Body-text-footer */
 
-
 .card.h-100 {
     border-radius: 18px;
     overflow: hidden;
     box-shadow: -10px 10px 35px -5px grey;
 }
-
-
-
 
 .card-footer {
     padding: 22px 0px;
@@ -163,11 +159,10 @@ button.get-button:hover {
     padding-left: 18px;
     font-size: 18px;
 }
+
 i.far.fa-calendar-alt {
     padding-right: 10px;
 }
-
-
 
 
 .Icon-two {
@@ -177,7 +172,9 @@ i.far.fa-calendar-alt {
 i.fas.fa-user {
     padding-right: 10px;
 }
+
 /* ---------- Courses Start ---------- */
+
 
 
 /* <!----------- Testimonial Started -----------> */
@@ -194,20 +191,25 @@ i.fas.fa-user {
 
 .col-md-5 img {
     width: 120px;
-    margin-left: 240px;
-    margin-top: 60px;
+    margin-left: 290px;
+    margin-top: 55px;
     border: 1px solid gray;
     border-radius: 66px;
 }
+
 /* <!----------- Testimonial End -----------> */
 
 
+
 /* <!----------- Footer Started -----------> */
+
+
 
 /* Footer Color */
 .footer-color{
     background-color: #282531;;
 }
+
 /* Footrt-left-text */
 p.footer-p {
     color: white;
